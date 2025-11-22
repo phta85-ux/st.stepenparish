@@ -1,0 +1,11 @@
+{
+    "items": [
+        {
+            "backgroundColor": "#f0f0f0",
+            "textColor": "#333333",
+            "fontFamily": "Arial, sans-serif",
+            "fontSize": "16px",
+            "text": "<h2>Welcome to our Newsletter!</h2><p>Stay updated with the latest news and events from St. Stephen's Parish.</p><p>More content coming soon!</p>"
+        }
+    ]
+}
